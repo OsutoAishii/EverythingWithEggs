@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "everything_with_eggs:egg_core"
+  },
+  "result": "everything_with_eggs:fried_egg",
+  "experience": 10
+}

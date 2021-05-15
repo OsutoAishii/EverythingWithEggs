@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F  ",
+    "S  ",
+    "T  "
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:egg"
+    },
+    "S": {
+      "item": "minecraft.potion.effect.water"
+    },
+    "T": {
+      "item": "everything_with_eggs:quicklime"
+    }
+  },
+  "result": {
+    "item": "everything_with_eggs:boiled_egg",
+    "count": 3
+  }
+}

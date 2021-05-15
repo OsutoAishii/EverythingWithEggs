@@ -1,0 +1,13 @@
+{
+  "itemGroup.everything_with_eggs.main": "一切都用蛋!",
+
+  "item.everything_with_eggs.broken_eggshell": "碎蛋壳",
+  "item.everything_with_eggs.pebble": "石子",
+  "item.everything_with_eggs.egg_core": "蛋芯",
+  "item.everything_with_eggs.fried_egg": "煎蛋",
+  "item.everything_with_eggs.boiled_egg": "煮鸡蛋",
+  "item.everything_with_eggs.calcium_carbonate": "碳酸钙",
+  "item.everything_with_eggs.quicklime": "生石灰",
+
+  "block.everything_with_eggs.eggshell_block": "蛋壳块"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "everything_with_eggs",
+  "version": "${version}",
+
+  "name": "Everything with Eggs",
+  "description": "Everything with Eggs!",
+  "authors": [
+    "FirstArchive"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "",
+  "icon": "assets/everything_with_eggs/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "first_archive.everything_with_eggs.EverythingWithEggs"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

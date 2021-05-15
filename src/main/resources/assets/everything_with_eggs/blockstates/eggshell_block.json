@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "everything_with_eggs:block/eggshell_block" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "itemGroup.everything_with_eggs.main": "Everything with Eggs",
+
+  "item.everything_with_eggs.broken_eggshell": "Broken Eggshell",
+  "item.everything_with_eggs.pebble": "Pebble",
+  "item.everything_with_eggs.egg_core": "Egg Core",
+  "item.everything_with_eggs.fried_egg": "Fried Egg",
+  "item.everything_with_eggs.boiled_egg": "Boiled Egg",
+  "item.everything_with_eggs.calcium_carbonate": "Calcium Carbonate",
+  "item.everything_with_eggs.quicklime": "Quicklime",
+
+  "block.everything_with_eggs.eggshell_block": "Eggshell Block"
+}
