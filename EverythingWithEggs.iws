@@ -2,61 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b00ec6-6112-4805-bb43-02d210e669ee" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-05-15-7.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-05-16-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/17cd00bc-bed9-33c2-9949-d9371a9a3eeb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/a3e619b4-d03e-3df6-bc8e-533c5d67e6da.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/c98b4c6a-9420-3bf0-87b7-0742781c94c8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/e93afb92-bc6e-34ce-b382-da5f2dd619b2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/17cd00bc-bed9-33c2-9949-d9371a9a3eeb.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/17cd00bc-bed9-33c2-9949-d9371a9a3eeb.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/a3e619b4-d03e-3df6-bc8e-533c5d67e6da.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/a3e619b4-d03e-3df6-bc8e-533c5d67e6da.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/c98b4c6a-9420-3bf0-87b7-0742781c94c8.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/c98b4c6a-9420-3bf0-87b7-0742781c94c8.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/e93afb92-bc6e-34ce-b382-da5f2dd619b2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/e93afb92-bc6e-34ce-b382-da5f2dd619b2.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/17cd00bc-bed9-33c2-9949-d9371a9a3eeb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/a3e619b4-d03e-3df6-bc8e-533c5d67e6da.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/c98b4c6a-9420-3bf0-87b7-0742781c94c8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/e93afb92-bc6e-34ce-b382-da5f2dd619b2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/BoiledEgg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/CalciumCarbonate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/FriedEgg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/Quicklime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/boiled_egg.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/calcium_carbonate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/fried_egg.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/quicklime.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/boiled_egg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/calcium_carbonate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/fried_egg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/quicklime.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/boiled_egg.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/boiled_egg2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/calcium_carbonate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/fried_egg.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/pebble.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/quicklime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_17.00.49-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_17.46.20-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_18.03.43-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_18.05.19-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_18.09.52-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_18.13.41-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_18.17.09-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-05-22_18.25.12-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2021-05-16-6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2021-05-21-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2021-05-21-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2021-05-22-6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2021-05-22-7.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/0a5e4ff0-6099-36b5-b64d-a84ffa9f1f72.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/198eff5d-ccf5-3ba5-aac5-eea0074f959b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/2164d6a3-d058-3632-9c13-ff2b4a7698db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/4aee401f-639e-3eed-a2fe-2b876770093d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/6aa22a6e-01b2-3515-a387-e8c7e0793117.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/8bc28857-9cad-3010-aa2f-f4e99766b41c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/d5c2adf2-8956-39ce-835b-416668af8f9e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/df2d3e26-a8b7-3aae-9296-f3a891282132.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/fb4c6c18-26a1-3d95-a13f-9a47871171a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/0a5e4ff0-6099-36b5-b64d-a84ffa9f1f72.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/0a5e4ff0-6099-36b5-b64d-a84ffa9f1f72.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/198eff5d-ccf5-3ba5-aac5-eea0074f959b.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/198eff5d-ccf5-3ba5-aac5-eea0074f959b.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/2164d6a3-d058-3632-9c13-ff2b4a7698db.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/4aee401f-639e-3eed-a2fe-2b876770093d.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/4aee401f-639e-3eed-a2fe-2b876770093d.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/6aa22a6e-01b2-3515-a387-e8c7e0793117.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/8bc28857-9cad-3010-aa2f-f4e99766b41c.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/8bc28857-9cad-3010-aa2f-f4e99766b41c.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/d5c2adf2-8956-39ce-835b-416668af8f9e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/d5c2adf2-8956-39ce-835b-416668af8f9e.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/df2d3e26-a8b7-3aae-9296-f3a891282132.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/df2d3e26-a8b7-3aae-9296-f3a891282132.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/fb4c6c18-26a1-3d95-a13f-9a47871171a2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/fb4c6c18-26a1-3d95-a13f-9a47871171a2.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/0a5e4ff0-6099-36b5-b64d-a84ffa9f1f72.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/198eff5d-ccf5-3ba5-aac5-eea0074f959b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/2164d6a3-d058-3632-9c13-ff2b4a7698db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/4aee401f-639e-3eed-a2fe-2b876770093d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/6aa22a6e-01b2-3515-a387-e8c7e0793117.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/8bc28857-9cad-3010-aa2f-f4e99766b41c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/d5c2adf2-8956-39ce-835b-416668af8f9e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/df2d3e26-a8b7-3aae-9296-f3a891282132.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/fb4c6c18-26a1-3d95-a13f-9a47871171a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Block/LimeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/EggTarts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/EggWhite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/EggshellArmorMaterial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/LimeBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/SlakedLime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/Yolk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/blockstates/lime_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/block/lime_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/egg_tarts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/egg_white.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/eggshell_boots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/eggshell_chestplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/eggshell_helmet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/eggshell_leggings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/lime_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/lime_brick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/slaked_lime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/models/item/yolk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/block/lime_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/egg_tarts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/egg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/eggshell_boots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/eggshell_chestplate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/eggshell_helmet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/eggshell_leggings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/lime_brick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/slaked_lime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/yolk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor/eggshell_layer_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor/eggshell_layer_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor/park.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/loot_tables/blocks/lime_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/egg_tarts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/lime_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/lime_brick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/slaked_lime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/yolk.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EverythingWithEggs.iws" beforeDir="false" afterPath="$PROJECT_DIR$/EverythingWithEggs.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/lang/en_us.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/lang/zh_cn.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/lang/zh_cn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/textures/item/broken_eggshell.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/textures/item/broken_eggshell.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/textures/item/egg_core.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EverythingWithEggs/assets/everything_with_eggs/textures/item/egg_core.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EverythingWithEggs/data/everything_with_eggs/recipes/egg_core.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EverythingWithEggs/data/everything_with_eggs/recipes/egg_core.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EverythingWithEggs/data/everything_with_eggs/recipes/boiled_egg2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-15-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-15-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-15-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-15-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-15-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-15-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-15-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-15-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-15-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-15-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-15-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-15-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-16-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-16-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-16-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-16-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-05-16-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-05-16-3.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/data/raids.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/新的世界/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM1/data/raids_end.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/新的世界/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界/data/raids.dat" afterDir="false" />
@@ -67,14 +116,11 @@
       <change beforePath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Block/BlockLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Block/BlockLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/EggCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/EggCore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/ItemLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_archive/everything_with_eggs/Item/ItemLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/lang/en_us.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/lang/zh_cn.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/lang/zh_cn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/broken_eggshell.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/broken_eggshell.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/egg_core.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/egg_core.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/pebble.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item/pebble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/egg_core.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs/recipes/egg_core.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,8 +173,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FabricBlock" />
+        <option value="Class" />
         <option value="FabricItem" />
       </list>
     </option>
@@ -175,15 +221,18 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor" />
       <recent name="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/item" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/models/armor" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/everything_with_eggs/textures/block" />
       <recent name="$PROJECT_DIR$/src/main/resources/data/everything_with_eggs" />
     </key>
   </component>

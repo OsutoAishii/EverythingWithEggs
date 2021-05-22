@@ -8,6 +8,16 @@
   "item.everything_with_eggs.boiled_egg": "Boiled Egg",
   "item.everything_with_eggs.calcium_carbonate": "Calcium Carbonate",
   "item.everything_with_eggs.quicklime": "Quicklime",
+  "item.everything_with_eggs.slaked_lime": "Slaked Lime",
+  "item.everything_with_eggs.lime_brick": "Lime Brick",
+  "item.everything_with_eggs.yolk": "Yolk",
+  "item.everything_with_eggs.egg_white": "Egg White",
 
-  "block.everything_with_eggs.eggshell_block": "Eggshell Block"
+  "block.everything_with_eggs.eggshell_block": "Eggshell Block",
+  "block.everything_with_eggs.lime_block": "Lime Block",
+
+  "item.everything_with_eggs.eggshell_helmet": "Eggshell Helmet",
+  "item.everything_with_eggs.eggshell_chestplate": "Eggshell Chestplate",
+  "item.everything_with_eggs.eggshell_leggings": "Eggshell Leggings",
+  "item.everything_with_eggs.eggshell_boots": "Eggshell Boots"
 }

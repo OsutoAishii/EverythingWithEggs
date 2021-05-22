@@ -7,6 +7,7 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 import static first_archive.everything_with_eggs.Block.EggshellBlock.eggshellBlock;
+import static first_archive.everything_with_eggs.Block.LimeBlock.limeBlock;
 import static first_archive.everything_with_eggs.EverythingWithEggs.MODID;
 import static first_archive.everything_with_eggs.EverythingWithEggs.itemGROUP;
 
@@ -15,5 +16,8 @@ public class BlockLoader {
     public BlockLoader() {
         Registry.register(Registry.BLOCK, new Identifier(MODID, "eggshell_block"), eggshellBlock);
         Registry.register(Registry.ITEM, new Identifier(MODID, "eggshell_block"), new BlockItem(eggshellBlock, new Item.Settings().group(itemGROUP)));
+
+        Registry.register(Registry.BLOCK, new Identifier(MODID, "lime_block"), limeBlock);
+        Registry.register(Registry.ITEM, new Identifier(MODID, "lime_block"), new BlockItem(limeBlock, new Item.Settings().group(itemGROUP)));
     }
 }

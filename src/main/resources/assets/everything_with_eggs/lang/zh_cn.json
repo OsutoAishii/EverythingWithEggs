@@ -8,6 +8,17 @@
   "item.everything_with_eggs.boiled_egg": "煮鸡蛋",
   "item.everything_with_eggs.calcium_carbonate": "碳酸钙",
   "item.everything_with_eggs.quicklime": "生石灰",
+  "item.everything_with_eggs.slaked_lime": "消石灰",
+  "item.everything_with_eggs.lime_brick": "石灰砖",
+  "item.everything_with_eggs.yolk": "蛋黄",
+  "item.everything_with_eggs.egg_white": "蛋清",
+  "item.everything_with_eggs.egg_tarts": "蛋挞",
 
-  "block.everything_with_eggs.eggshell_block": "蛋壳块"
+  "block.everything_with_eggs.eggshell_block": "蛋壳块",
+  "block.everything_with_eggs.lime_block": "石灰块",
+
+  "item.everything_with_eggs.eggshell_helmet": "蛋壳头盔",
+  "item.everything_with_eggs.eggshell_chestplate": "蛋壳胸甲",
+  "item.everything_with_eggs.eggshell_leggings": "蛋壳护腿",
+  "item.everything_with_eggs.eggshell_boots": "蛋壳靴子"
 }
