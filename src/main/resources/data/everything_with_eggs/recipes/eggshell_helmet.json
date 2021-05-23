@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FSF",
+    "   "
+  ],
+  "key": {
+    "F": {
+      "item": "everything_with_eggs:broken_eggshell"
+    },
+    "S": {
+      "item": "everything_with_eggs:egg_liquid_glue"
+    }
+  },
+  "result": {
+    "item": "everything_with_eggs:eggshell_helmet",
+    "count": 1
+  }
+}

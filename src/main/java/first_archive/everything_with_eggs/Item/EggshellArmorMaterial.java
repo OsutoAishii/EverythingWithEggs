@@ -30,12 +30,12 @@ public class EggshellArmorMaterial extends Item {
 
 enum EggShell_ArmorMaterial implements ArmorMaterial {
     //定义材料的保护值等属性
-    eggshell("eggshell", 5, new int[]{1,3,2,1}, 15, SoundEvents.BLOCK_WOOL_PLACE, 0.0F, () -> {
+    eggshell("eggshell", 5, new int[]{2,4,4,3}, 15, SoundEvents.BLOCK_WOOL_PLACE, 0.0F, () -> {
         return Ingredient.ofItems(Items.WHITE_WOOL);
     });
 
     //定义护甲的耐久，此处数据按照从头到脚的顺序
-    private static final int[] BASE_DURABILITY = new int[]{13, 15, 16, 11};
+    private static final int[] BASE_DURABILITY = new int[]{23, 25, 26, 21};
     private final String name;
     private final int durabilityMultiplier;
     private final int[] protectionAmounts;

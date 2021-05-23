@@ -8,6 +8,7 @@ import static first_archive.everything_with_eggs.Item.BoiledEgg.boiledEgg;
 import static first_archive.everything_with_eggs.Item.BrokenEggshell.brokenEggshell;
 import static first_archive.everything_with_eggs.Item.CalciumCarbonate.calciumCarbonate;
 import static first_archive.everything_with_eggs.Item.EggCore.eggCore;
+import static first_archive.everything_with_eggs.Item.EggLiquidGlue.eggLiquidGlue;
 import static first_archive.everything_with_eggs.Item.EggTarts.eggTarts;
 import static first_archive.everything_with_eggs.Item.EggWhite.eggWhite;
 import static first_archive.everything_with_eggs.Item.EggshellArmorMaterial.*;
@@ -15,6 +16,7 @@ import static first_archive.everything_with_eggs.Item.FriedEgg.friedEgg;
 import static first_archive.everything_with_eggs.Item.LimeBrick.limeBrick;
 import static first_archive.everything_with_eggs.Item.Pebble.pebble;
 import static first_archive.everything_with_eggs.Item.Quicklime.quicklime;
+import static first_archive.everything_with_eggs.Item.Resin.resin;
 import static first_archive.everything_with_eggs.Item.SlakedLime.slakedLime;
 import static first_archive.everything_with_eggs.Item.Yolk.yolk;
 
@@ -33,6 +35,8 @@ public class ItemLoader {
         Registry.register(Registry.ITEM, new Identifier(MODID, "yolk"), yolk);
         Registry.register(Registry.ITEM, new Identifier(MODID, "egg_white"), eggWhite);
         Registry.register(Registry.ITEM, new Identifier(MODID, "egg_tarts"), eggTarts);
+        Registry.register(Registry.ITEM, new Identifier(MODID, "resin"), resin);
+        Registry.register(Registry.ITEM, new Identifier(MODID, "egg_liquid_glue"), eggLiquidGlue);
 
         Registry.register(Registry.ITEM, new Identifier(MODID, "eggshell_helmet"), Eggshell_HELMET);
         Registry.register(Registry.ITEM, new Identifier(MODID, "eggshell_chestplate"), Eggshell_CHESTPLATE);

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F  ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "F": {
+      "item": "everything_with_eggs:egg_core"
+    }
+  },
+  "result": {
+    "item": "everything_with_eggs:yolk",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "F  ",
+    "   "
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "everything_with_eggs:pebble",
+    "count": 4
+  }
+}

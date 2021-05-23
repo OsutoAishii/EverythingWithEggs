@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F  ",
+    "SSS",
+    "   "
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:water_bucket"
+    },
+    "S": {
+      "item": "everything_with_eggs:quicklime"
+    }
+  },
+  "result": {
+    "item": "everything_with_eggs:slaked_lime",
+    "count": 6
+  }
+}

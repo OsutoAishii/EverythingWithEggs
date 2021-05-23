@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S  ",
+    "F  ",
+    "   "
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:egg"
+    },
+    "S": {
+      "item": "everything_with_eggs:pebble"
+    }
+  },
+  "result": {
+    "item": "everything_with_eggs:egg_core",
+    "count": 3
+  }
+}
