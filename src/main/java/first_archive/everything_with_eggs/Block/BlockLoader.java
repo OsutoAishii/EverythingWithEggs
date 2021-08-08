@@ -8,6 +8,8 @@ import net.minecraft.util.registry.Registry;
 
 import static first_archive.everything_with_eggs.Block.EggshellBlock.eggshellBlock;
 import static first_archive.everything_with_eggs.Block.LimeBlock.limeBlock;
+import static first_archive.everything_with_eggs.Block.RoughSand.roughSand;
+import static first_archive.everything_with_eggs.Block.StoneSand.stoneSand;
 import static first_archive.everything_with_eggs.EverythingWithEggs.MODID;
 import static first_archive.everything_with_eggs.EverythingWithEggs.itemGROUP;
 
@@ -19,5 +21,11 @@ public class BlockLoader {
 
         Registry.register(Registry.BLOCK, new Identifier(MODID, "lime_block"), limeBlock);
         Registry.register(Registry.ITEM, new Identifier(MODID, "lime_block"), new BlockItem(limeBlock, new Item.Settings().group(itemGROUP)));
+
+        Registry.register(Registry.BLOCK, new Identifier(MODID, "stone_sand"), stoneSand);
+        Registry.register(Registry.ITEM, new Identifier(MODID, "stone_sand"), new BlockItem(stoneSand, new Item.Settings().group(itemGROUP)));
+
+        Registry.register(Registry.BLOCK, new Identifier(MODID, "rough_sand"), roughSand);
+        Registry.register(Registry.ITEM, new Identifier(MODID, "rough_sand"), new BlockItem(roughSand, new Item.Settings().group(itemGROUP)));
     }
 }

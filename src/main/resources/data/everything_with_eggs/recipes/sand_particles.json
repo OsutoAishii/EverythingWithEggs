@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FS ",
+    "SF ",
+    "   "
+  ],
+  "key": {
+    "F": {
+      "item": "everything_with_eggs:calcium_carbonate"
+    },
+    "S": {
+      "tag": "everything_with_eggs:slaked_lime"
+    }
+  },
+  "result": {
+    "item": "everything_with_eggs:sand_particles",
+    "count": 4
+  }
+}

@@ -6,7 +6,7 @@ import net.minecraft.block.Material;
 
 //石灰块
 public class LimeBlock extends Block {
-    //石头类型，硬度为1f
+    //硬度为2f
     public static final Block limeBlock = new Block(FabricBlockSettings.of(Material.STONE).hardness(2f));
 
     public LimeBlock(Settings settings) {

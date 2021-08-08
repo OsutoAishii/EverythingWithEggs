@@ -15,9 +15,12 @@
   "item.everything_with_eggs.egg_tarts": "Egg Tarts",
   "item.everything_with_eggs.resin": "Resin",
   "item.everything_with_eggs.egg_liquid_glue": "Egg Liquid Glue",
+  "item.everything_with_eggs.sand_particles": "Sand Particles",
 
   "block.everything_with_eggs.eggshell_block": "Eggshell Block",
   "block.everything_with_eggs.lime_block": "Lime Block",
+  "block.everything_with_eggs.stone_sand": "Stone Sand",
+  "block.everything_with_eggs.rough_sand": "Rough Sand",
 
   "item.everything_with_eggs.eggshell_helmet": "Eggshell Helmet",
   "item.everything_with_eggs.eggshell_chestplate": "Eggshell Chestplate",

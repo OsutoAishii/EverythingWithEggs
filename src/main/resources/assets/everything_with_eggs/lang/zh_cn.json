@@ -15,9 +15,12 @@
   "item.everything_with_eggs.egg_tarts": "蛋挞",
   "item.everything_with_eggs.resin": "树脂",
   "item.everything_with_eggs.egg_liquid_glue": "蛋液胶",
+  "item.everything_with_eggs.sand_particles": "沙粒",
 
   "block.everything_with_eggs.eggshell_block": "蛋壳块",
   "block.everything_with_eggs.lime_block": "石灰块",
+  "block.everything_with_eggs.stone_sand": "石沙",
+  "block.everything_with_eggs.rough_sand": "粗糙的沙子",
 
   "item.everything_with_eggs.eggshell_helmet": "蛋壳头盔",
   "item.everything_with_eggs.eggshell_chestplate": "蛋壳胸甲",
