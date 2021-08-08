@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "everything_with_eggs:yolk"
-  },
-  "result": "everything_with_eggs:egg_tarts",
-  "experience": 10
-}
